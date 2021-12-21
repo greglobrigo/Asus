@@ -1,0 +1,36 @@
+// Stylesheet info
+
+// Template Name: Asus Landing Page
+// Description: CSS for Landing Page
+// Author: Greg
+// Author URI:
+// Tags: HTML, CSS, SASS, Javascript
+
+@import "partials/_header-nav.scss";
+@import "partials/_sections.scss";
+@import "partials/_footer.scss";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    color: black;
+    background-color:#f6f6f6ff;
+
+ 
+}
+
+.bookmark {
+    height: 10vh;
+}
+
+
+
+
+
+
+
